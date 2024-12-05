@@ -59,4 +59,6 @@ Qt 小遊戲：五子棋對戰（暫定）
    - 在 GitHub 上整理專案文件。
    - 撰寫使用者指南與技術文件。
 ## 參考資料
+   五子棋基本框架 :https://blog.csdn.net/weixin_40615338/article/details/121196293
    五子棋AI :https://github.com/lihongxun945/myblog/issues/11
+   
