@@ -10,10 +10,16 @@ CONFIG += c++17
 
 SOURCES += \
     Qtproject.cpp \
-    main.cpp
+    aivsplayer.cpp \
+    localgame.cpp \
+    main.cpp \
+    networkgame.cpp
 
 HEADERS += \
-    Qtproject.h
+    Qtproject.h \
+    aivsplayer.h \
+    localgame.h \
+    networkgame.h
 
 FORMS += \
     Qtproject.ui
