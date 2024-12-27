@@ -62,4 +62,6 @@ Qt 小遊戲：五子棋對戰（暫定）
    五子棋基本框架 :https://blog.csdn.net/weixin_40615338/article/details/121196293
    
    五子棋AI :https://github.com/lihongxun945/myblog/issues/11
+
+   遊戲背景圖片:https://www.photophoto.cn/tupian/muzhibeijingban.html
    
