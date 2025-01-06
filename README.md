@@ -64,5 +64,6 @@ Qt 小遊戲：五子棋對戰（暫定）
    五子棋AI :https://github.com/lihongxun945/myblog/issues/11
 
    遊戲背景圖片:https://www.photophoto.cn/tupian/muzhibeijingban.html
-
+   
+   Demo影片:https://youtu.be/hcGLPEjZK3s
    
