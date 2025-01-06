@@ -65,5 +65,4 @@ Qt 小遊戲：五子棋對戰（暫定）
 
    遊戲背景圖片:https://www.photophoto.cn/tupian/muzhibeijingban.html
 
-   Canva:https://www.canva.com/design/DAGad35VbjA/AZBF8KtOQfgJ3KgUl5rk_A/edit
    
