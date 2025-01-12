@@ -61,6 +61,8 @@ Demo影片:https://youtu.be/IGfhcBnUA3c
 4. **發佈與文件整理** (1 週)  
    - 在 GitHub 上整理專案文件。
    - 撰寫使用者指南與技術文件。
+## 本地對戰
+
 ## 參考資料
    五子棋基本框架 :https://blog.csdn.net/weixin_40615338/article/details/121196293
    
