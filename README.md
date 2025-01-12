@@ -63,6 +63,7 @@ Demo影片:https://youtu.be/IGfhcBnUA3c
    - 在 GitHub 上整理專案文件。
    - 撰寫使用者指南與技術文件。
 ## 本地對戰
+![image](本地對戰.png)
 ## 人機對戰
 ## 連線對戰
 ## 參考資料
