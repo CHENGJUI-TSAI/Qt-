@@ -10,7 +10,7 @@
 ## 專案名稱
 Qt 小遊戲：五子棋對戰
 ## 遊戲畫面
-遊戲主畫面.png
+![image](https://github.com/CHENGJUI-TSAI/Qt-/blob/1e8e46dd40caa20e04165d2d1d9df9778db76efc/%E9%81%8A%E6%88%B2%E4%B8%BB%E7%95%AB%E9%9D%A2.png)
 ## Demo影片
 Demo影片:https://youtu.be/IGfhcBnUA3c
 
