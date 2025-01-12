@@ -8,7 +8,7 @@
 41243252蔡承叡
 
 ## 專案名稱
-Qt 小遊戲：五子棋對戰（暫定）
+Qt 小遊戲：五子棋對戰
 
 ## Demo影片
 Demo影片:https://youtu.be/IGfhcBnUA3c
