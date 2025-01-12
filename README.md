@@ -11,7 +11,7 @@
 Qt 小遊戲：五子棋對戰（暫定）
 
 ## Demo影片
-Demo影片:https://youtu.be/hcGLPEjZK3s
+Demo影片:https://youtu.be/IGfhcBnUA3c
 
 ## 專案背景
 五子棋是一款經典的棋盤遊戲，規則簡單但充滿策略性。基於原先五子棋只能自己對戰的功能，來擴充AI與連線對戰的功能!
