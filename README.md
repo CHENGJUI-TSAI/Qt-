@@ -65,9 +65,9 @@ Demo影片:https://youtu.be/IGfhcBnUA3c
 ## 本地對戰
 ![image](本地對戰.png)
 ## 人機對戰
-![image](人機對戰.png)
+![image](AI對戰.png)
 ## 連線對戰
-![image](連線對戰.png)
+![image](網路對戰.png)
 ## 參考資料
    五子棋基本框架 :https://blog.csdn.net/weixin_40615338/article/details/121196293
    
