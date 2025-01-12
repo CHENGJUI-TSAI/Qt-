@@ -13,6 +13,7 @@ Qt 小遊戲：五子棋對戰
 ![image](遊戲主畫面.png)
 ## Demo影片
 Demo影片:https://youtu.be/IGfhcBnUA3c
+
 製作過程:https://youtu.be/hcGLPEjZK3s
 
 ## 專案背景
